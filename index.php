@@ -26,7 +26,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="display-4 text-center text-info">File Uploader</h1>
+        <h1 class="display-4 text-center text-info">Simple image Uploader</h1>
         <h3 class="h3 lead">Upload Your File</h3>
 
             <form action="index.php" method="post" enctype="multipart/form-data">
